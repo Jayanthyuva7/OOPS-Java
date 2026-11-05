@@ -20,7 +20,7 @@ const db = getFirestore(firebaseApp)
 // Admin emails — must be kept in sync with ADMIN_EMAILS in LoginOverlay.vue
 const ADMIN_EMAILS = [
   'ponrajacc@gmail.com',
-  'gunatamil123@gmail.com','venkat@kalvium.com','tamilarasan@faceprep.in','karthikraja@faceprep.in',
+  'gunatamil123@gmail.com','venkat@kalvium.com','tamilarasan@faceprep.in','karthikraja@faceprep.in','jayanth@faceprep.in',
   'learning@faceprep.in'
 ]
 
