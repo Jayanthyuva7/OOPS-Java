@@ -3,8 +3,8 @@ import { ref, computed, onMounted, onUnmounted, nextTick, watchEffect, watch } f
 import { authState, logout } from '../auth'
 
 const ADMIN_EMAILS = [
-  'ponrajacc@gmail.com',
-  'gunatamil123@gmail.com',
+   'ponrajacc@gmail.com',
+  'gunatamil123@gmail.com','venkat@kalvium.com','tamilarasan@faceprep.in','karthikraja@faceprep.in','jayanth@faceprep.in',
   'learning@faceprep.in'
 ]
 
